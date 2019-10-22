@@ -1,0 +1,17 @@
+DESCRIPTION
+
+Mary Miles, the head of Sales for a retail products company, is responsible for increasing business from the company’s customers. Mary wants to build a dashboard that will present some statistics about the customers, a ranking of the customers by Profit Ratio, and a breakdown of each customer’s sales and profit performance. This information will be broken down by Region so Mary can analyze the differences in customers across the company’s geography. Mary also wants to be able to break down the information by Segment, by Category, and by Year or Order Date.
+
+Overview
+
+    1. Use the Saved Sample – Superstore dataset.
+    2. Create a bar chart with some statistics about the customers, broken down by Region.
+    3. Create a scatter plot with Profit on one axis and Sales on the other axis, and color code by Profit Ratio.
+    4. Create a ranking of Customers by Profit Ratio, and color code by Profit Ratio.
+    5. Create filters for Segment, Category, and Year of Order Date.
+    6. Assemble the three views into a dashboard, with the statistics at the top, the ranking on the bottom left, and the scatter plot on the bottom right.
+    7. Set the Filters to apply to all three views in the Dashboard.
+
+
+Below is the path for project in TABLEAU PUBLIC :
+https://public.tableau.com/profile/a.suresh#!/vizhome/Project01_CustomerAnalysis/CustomerAnalysis

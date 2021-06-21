@@ -7,6 +7,8 @@ PROJECTS HANDLED:
 2. UDEMY
 
    2.1) Discount Mart
+
+         https://public.tableau.com/authoring/DiscountMart_16240100978810/Dashboard1#1
  
    2.2) Green Destinations (HR Analytics)
  

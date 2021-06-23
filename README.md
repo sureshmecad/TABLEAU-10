@@ -11,6 +11,8 @@ PROJECTS HANDLED:
          https://public.tableau.com/authoring/DiscountMart_16240100978810/Dashboard1#1
  
    2.2) Green Destinations (HR Analytics)
+
+         https://public.tableau.com/app/profile/a.suresh/viz/GreenDestinations_16243632466140/GreenDestination
  
    2.3) Superstore (Sales Agent Tracker)
  

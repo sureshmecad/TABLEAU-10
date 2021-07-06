@@ -15,7 +15,11 @@ PROJECTS HANDLED:
          https://public.tableau.com/app/profile/a.suresh/viz/GreenDestinations_16243632466140/GreenDestination
  
    2.3) Superstore (Sales Agent Tracker)
+
+         https://public.tableau.com/app/profile/a.suresh/viz/SuperstoreSalesAgentTracker_16245400526320/Dashboard1
  
    2.4) Northwind Trade (Shipping Analytics)
 
    2.5) Tesla (Stock Price Analytics)
+
+        https://public.tableau.com/app/profile/a.suresh/viz/TeslaStockPriceAnalysis_16251210125330/TeslaStockPriceAnalysis_1
